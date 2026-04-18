@@ -3,8 +3,7 @@
 
 
 ### Opis 
-
-[PL] Projekt stworzony na zaliczenie w 2023 roku. Jest to aplikacja desktopowa zbudowana w **C++** przy użyciu **Windows Forms (.NET)**. 
+Projekt stworzony na zaliczenie w 2023 roku. Jest to aplikacja desktopowa zbudowana w **C++** przy użyciu **Windows Forms (.NET)**. 
 
 
 
